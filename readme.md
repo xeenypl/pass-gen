@@ -1,4 +1,4 @@
-# pass-gen a simple password grnerator in c
+# pass-gen a simple password generator in c
 ## dependence
 - c99 compiler (tested on gcc)
 - c99 libc (tested on glibc)
